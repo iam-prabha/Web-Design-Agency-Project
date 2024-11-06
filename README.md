@@ -2,7 +2,7 @@ This is a responsive website project created using HTML and CSS with a grid layo
 
 **Author:** velprabhakaran Baskar
 
-**Contact:** velprabhakaran2@gmail.com
+**Contact:** dev.vpcode@gmail.com
 
 ## Description
 
